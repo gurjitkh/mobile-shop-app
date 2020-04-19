@@ -3,12 +3,19 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import {BrowserRouter as Router} from "react-router-dom"
+import {ProductProvider} from './context'
+
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
+  //usage of product provider context at highest level of the application, index.js is the highest place
+  <ProductProvider>
     <Router>
       <App/>
-    </Router>,
+    </Router>
+
+  </ProductProvider>
+    ,
   document.getElementById('root')
 );
 
