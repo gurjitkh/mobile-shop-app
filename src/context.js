@@ -20,6 +20,23 @@ class ProductProvider extends Component {
         console.log('hello form add to cart');
     }
 
+    tester = () => {
+        console.log('State Product:', this.state.products[0].inCart);
+        console.log('Data Product:', storeProducts[0].inCart);
+
+        const tempProducts = [...this.state.products];
+        tempProducts[0].inCart = true
+
+        this.setState(() =>{
+
+            return {products:tempProducts}
+        },() =>{
+            console.log("State product :", this.state.products[0].inCart);
+            console.log("State product :", store[0].inCart);
+            
+        })
+    }
+
     render() {
         return (
             <ProductContext.Provider value={{
