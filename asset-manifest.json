@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mobile-shop-app/static/css/main.4b88d8db.chunk.css",
+    "main.js": "/mobile-shop-app/static/js/main.fdb46a70.chunk.js",
+    "main.js.map": "/mobile-shop-app/static/js/main.fdb46a70.chunk.js.map",
+    "runtime-main.js": "/mobile-shop-app/static/js/runtime-main.348e0ad0.js",
+    "runtime-main.js.map": "/mobile-shop-app/static/js/runtime-main.348e0ad0.js.map",
+    "static/css/2.69121389.chunk.css": "/mobile-shop-app/static/css/2.69121389.chunk.css",
+    "static/js/2.89b3b0e2.chunk.js": "/mobile-shop-app/static/js/2.89b3b0e2.chunk.js",
+    "static/js/2.89b3b0e2.chunk.js.map": "/mobile-shop-app/static/js/2.89b3b0e2.chunk.js.map",
+    "index.html": "/mobile-shop-app/index.html",
+    "precache-manifest.0e52ae1f1379816c33605867a259e102.js": "/mobile-shop-app/precache-manifest.0e52ae1f1379816c33605867a259e102.js",
+    "service-worker.js": "/mobile-shop-app/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/mobile-shop-app/static/css/2.69121389.chunk.css.map",
+    "static/css/main.4b88d8db.chunk.css.map": "/mobile-shop-app/static/css/main.4b88d8db.chunk.css.map",
+    "static/js/2.89b3b0e2.chunk.js.LICENSE.txt": "/mobile-shop-app/static/js/2.89b3b0e2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mobile-shop-app/static/media/logo.9f7e506d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.348e0ad0.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.89b3b0e2.chunk.js",
+    "static/css/main.4b88d8db.chunk.css",
+    "static/js/main.fdb46a70.chunk.js"
+  ]
+}
