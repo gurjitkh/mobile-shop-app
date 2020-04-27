@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b88d8db.chunk.css",
-    "main.js": "/static/js/main.dc23a5eb.chunk.js",
-    "main.js.map": "/static/js/main.dc23a5eb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4d82623d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4d82623d.js.map",
-    "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
-    "static/js/2.5d942c93.chunk.js": "/static/js/2.5d942c93.chunk.js",
-    "static/js/2.5d942c93.chunk.js.map": "/static/js/2.5d942c93.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8252b93a02c88c1638c22a4884d0155c.js": "/precache-manifest.8252b93a02c88c1638c22a4884d0155c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
-    "static/css/main.4b88d8db.chunk.css.map": "/static/css/main.4b88d8db.chunk.css.map",
-    "static/js/2.5d942c93.chunk.js.LICENSE.txt": "/static/js/2.5d942c93.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.9f7e506d.svg"
+    "main.css": "/mobile-shop-app/static/css/main.4b88d8db.chunk.css",
+    "main.js": "/mobile-shop-app/static/js/main.9d36e05e.chunk.js",
+    "main.js.map": "/mobile-shop-app/static/js/main.9d36e05e.chunk.js.map",
+    "runtime-main.js": "/mobile-shop-app/static/js/runtime-main.348e0ad0.js",
+    "runtime-main.js.map": "/mobile-shop-app/static/js/runtime-main.348e0ad0.js.map",
+    "static/css/2.69121389.chunk.css": "/mobile-shop-app/static/css/2.69121389.chunk.css",
+    "static/js/2.89b3b0e2.chunk.js": "/mobile-shop-app/static/js/2.89b3b0e2.chunk.js",
+    "static/js/2.89b3b0e2.chunk.js.map": "/mobile-shop-app/static/js/2.89b3b0e2.chunk.js.map",
+    "index.html": "/mobile-shop-app/index.html",
+    "precache-manifest.1260711601161dbb15765b97e5142159.js": "/mobile-shop-app/precache-manifest.1260711601161dbb15765b97e5142159.js",
+    "service-worker.js": "/mobile-shop-app/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/mobile-shop-app/static/css/2.69121389.chunk.css.map",
+    "static/css/main.4b88d8db.chunk.css.map": "/mobile-shop-app/static/css/main.4b88d8db.chunk.css.map",
+    "static/js/2.89b3b0e2.chunk.js.LICENSE.txt": "/mobile-shop-app/static/js/2.89b3b0e2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mobile-shop-app/static/media/logo.9f7e506d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d82623d.js",
+    "static/js/runtime-main.348e0ad0.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.5d942c93.chunk.js",
+    "static/js/2.89b3b0e2.chunk.js",
     "static/css/main.4b88d8db.chunk.css",
-    "static/js/main.dc23a5eb.chunk.js"
+    "static/js/main.9d36e05e.chunk.js"
   ]
 }
